@@ -5,7 +5,7 @@
 ---
 
 ### **Professional Summary**  
-Highly skilled **Senior Software Engineer** with 5+ years of experience in developing scalable web applications, enterprise cloud infrastructure, and innovative software solutions. Proficient in modern technologies like **NestJS**, **Angular**, **Go**, and **PostgreSQL**, with extensive expertise in **e-commerce** and **learning management systems (LMS)**. Hands-on experience with leading cloud platforms (**AWS**, **Azure**, **DigitalOcean**) and DevOps tools (**Docker**, **Nginx**). Proven ability to deliver high-quality solutions that meet business objectives.  
+Highly skilled **Senior Software Engineer** with 7+ years of experience in developing scalable web applications, enterprise cloud infrastructure, and innovative software solutions. Proficient in modern technologies like **NestJS**, **Angular**, **Go**, and **PostgreSQL**, with extensive expertise in **e-commerce** and **learning management systems (LMS)**. Hands-on experience with leading cloud platforms (**AWS**, **Azure**, **DigitalOcean**) and DevOps tools (**Docker**, **Nginx**). Proven ability to deliver high-quality solutions that meet business objectives.  
 
 ---
 
