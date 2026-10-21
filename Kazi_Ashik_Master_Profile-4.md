@@ -1,13 +1,13 @@
 # KAZI ASHIK AL ISLAM
 
-**Software Engineer | Backend and Full-Stack Development**
+**Sr. Software Engineer | Backend and Full-Stack Development**
 
 Bangladesh · kaziashik999@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/kazi-ashik) · [GitHub](https://github.com/ashik-info) · [Technical writing](https://medium.com/@kaziashik999)
 
 ## Professional Summary
 
-Software engineer with more than seven years of experience across backend and frontend development. I work primarily with Go, TypeScript, Node.js/NestJS, Angular and PostgreSQL. My experience includes e-commerce, point-of-sale, learning management systems and notification services.
+Senior Software engineer with more than seven years of experience across backend and frontend development. I work primarily with Go, TypeScript, Node.js/NestJS, Angular and PostgreSQL. My experience includes e-commerce, point-of-sale, learning management systems and notification services.
 
 My work covers APIs, database models and migrations, web interfaces, background processing and application deployment. I prefer clear code, manageable modules and practical solutions that are straightforward to maintain. I also develop personal tools, explore Rust and cloud infrastructure, and write about what I learn.
 
@@ -42,7 +42,7 @@ Backend and full-stack engineering; commerce and SaaS applications; maintainable
 
 ## Professional Experience
 
-### Executive Software Engineer — BYSL Global Technology Group
+### Executive, Full-Stack Software Engineer — BYSL Global Technology Group
 **April 2025–Present | Gulshan, Dhaka, Bangladesh | Full-time, on-site**
 
 - Work on backend services and web application features for commerce, point-of-sale and notification workflows.
