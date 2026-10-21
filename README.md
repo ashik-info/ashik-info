@@ -1,114 +1,95 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-ashik)
-              
-<h2 align="left">Hi 👋! My name is KAZI ASHIK AL ISLAM.</h2>
-
----
-
-### **Professional Summary**  
-Highly skilled **Senior Software Engineer** with 7+ years of experience in developing scalable web applications, enterprise cloud infrastructure, and innovative software solutions. Proficient in modern technologies like **NestJS**, **Angular**, **Go**, and **PostgreSQL**, with extensive expertise in **e-commerce** and **learning management systems (LMS)**. Hands-on experience with leading cloud platforms (**AWS**, **Azure**, **DigitalOcean**) and DevOps tools (**Docker**, **Nginx**). Proven ability to deliver high-quality solutions that meet business objectives.  
-
----
-
-### **Professional Experience**  
-
-**Senior Software Engineer**  
-**Shopinbiz** | Faridpur, Dhaka, Bangladesh (Remote)  
-*Mar 2024 – Present*  
-- Designed and developed enterprise-grade **cloud infrastructure** using Kubernetes, VPC, and Hasura, supporting scalable web applications.  
-- Implemented full-stack development solutions using **Go**, **NestJS**, **Angular**, and **PostgreSQL** for e-commerce platforms.  
-- Automated CI/CD pipelines to improve development efficiency and deployment reliability.  
-- Key contributor to the **Telegram Bot Project**, integrating e-commerce functionalities with **Fiber**, **GORM**, and PostgreSQL.  
-- **Technologies:** Kubernetes, Go, Angular, PostgreSQL, GraphQL, CI/CD  
-
-**Senior Software Developer**  
-**Classtune** | Banani, Dhaka, Bangladesh (On-Site)  
-*Sep 2023 – Mar 2024*  
-- Built and maintained SaaS-based LMS solutions with **NestJS**, **Angular**, and **Prisma**, improving user engagement by 20%.  
-- Enhanced application state management using **NgRx** and developed REST APIs for seamless data exchange.  
-- Optimized backend and database architectures, integrating **PostgreSQL** for high-volume data processing.  
-- **Technologies:** Angular, NestJS, PostgreSQL, NgRx, Prisma, REST APIs  
-
-**Software Specialist**  
-**SSL Wireless** | Dhaka, Bangladesh  
-*May 2023 – Aug 2023*  
-- Designed robust software frameworks and optimized algorithms to enhance performance.  
-- Collaborated on enterprise projects focusing on scalable infrastructure and data-driven decision-making.  
-
-**Angular Developer**  
-**Classtune** | Dhaka, Bangladesh  
-*Jun 2021 – May 2023*  
-- Developed user-focused LMS frontend solutions with **Angular** and **Angular Material**.  
-- Implemented state management systems and API integrations to improve performance and scalability.  
-
-**Web Application Developer**  
-**Storrea.com** | Dhaka, Bangladesh  
-*May 2020 – May 2021*  
-- Designed and deployed **e-commerce templates**, including **Sanguine**, **Serene**, **Toaseen**, and **Prevalent**, increasing customer retention rates by 30%.  
-- Focused on responsive design and backend optimization to deliver seamless user experiences.  
-
-**Frontend Developer**  
-**iSolutionBD** | Faridpur, Dhaka, Bangladesh  
-*Jan 2019 – Feb 2020*  
-- Created responsive and visually engaging frontend designs tailored to client needs.  
-- Improved overall application usability through robust coding practices and user-centered design.  
-
----
-
-### **Key Projects**  
-
-#### **Enterprise Cloud Infrastructure** | Shopinbiz  
-- Developed and deployed a scalable enterprise platform using **NestJS**, **GraphQL**, and **Kubernetes**.  
-- Delivered high-performance, cloud-native applications, leveraging **YAML** configurations for deployment automation.  
-
-#### **Telegram Bot** | Shopinbiz  
-- Built a robust bot for automating e-commerce operations using **Go**, **Fiber**, **PostgreSQL**, and **GORM**.  
-
-#### **Learning Management System (School of Future)** | Classtune  
-- Designed and developed an LMS platform supporting over 10,000 active users.  
-- Optimized backend workflows with **NestJS**, **Prisma**, and **MySQL** to improve data processing efficiency.  
-
-#### **Work Management System** | Classtune  
-- Delivered a comprehensive work management platform with task tracking and reporting features using **Angular**, **PostgreSQL**, and **NgRx**.  
-
-#### **E-Commerce Templates** | Storrea  
-- Created multiple responsive e-commerce solutions tailored to client needs, enhancing user engagement and conversion rates.  
-
----
-
-### **Education**  
-**Bachelor of Science in Computer Science**  
-University of Dhaka | Dhaka, Bangladesh  
-*Graduated: 2017*  
-
----
-
-### **Technical Skills**  
-
-#### **Programming & Frameworks**  
-- **Languages:** Go, TypeScript, JavaScript, SQL, Python  
-- **Frameworks & Libraries:** Angular, NestJS, Fiber, Prisma, NgRx  
-
-#### **Databases**  
-- **Relational Databases:** PostgreSQL, MySQL  
-- **NoSQL:** MongoDB  
-
-#### **Cloud & DevOps Expertise**  
-- Hands-on experience with **AWS**, **Azure**, and **DigitalOcean** for cloud deployment and infrastructure management.  
-- Skilled in containerization and orchestration using **Docker** and web server configurations with **Nginx**.  
-
-#### **Tools & Technologies**  
-- Git, RESTful WebServices, GraphQL, YAML  
-
-#### **Specialized Skills**  
-- Scalable Architecture, E-Commerce Development, SaaS, Learning Management Systems  
-
----
-
-### **Languages**  
-- **English:** Fluent  
-- **Bengali:** Native  
-
----
-
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-
+KAZI ASHIK AL ISLAM
+Software Engineer | Backend and Full-Stack Development
+Bangladesh · kaziashik999@gmail.com
+LinkedIn · GitHub · Technical writing
+Professional Summary
+Software engineer with more than seven years of experience across backend and frontend development. I work primarily with Go, TypeScript, Node.js/NestJS, Angular and PostgreSQL. My experience includes e-commerce, point-of-sale, learning management systems and notification services.
+My work covers APIs, database models and migrations, web interfaces, background processing and application deployment. I prefer clear code, manageable modules and practical solutions that are straightforward to maintain. I also develop personal tools, explore Rust and cloud infrastructure, and write about what I learn.
+Technical Skills
+Main Development Stack
+Languages: Go, TypeScript, JavaScript and SQL.
+Backend: Node.js, NestJS, Go Fiber, Echo and Gin; REST APIs, GraphQL, request validation, authentication and authorization.
+Frontend: Angular, Angular Material, NgRx, RxJS, Next.js and React-based interfaces; HTML, CSS, Tailwind CSS, forms and API integration.
+Data: PostgreSQL, MySQL and Redis; schema design, migrations, transactions, query troubleshooting and pagination.
+Database libraries: GORM, Prisma, TypeORM, Sequelize, sqlc and Drizzle ORM.
+Messaging and jobs: Kafka, RabbitMQ and BullMQ; event consumers, scheduled processing, background jobs, retries and data imports.
+Delivery and operations: Git, Docker, Docker Compose, Linux, Nginx and CI/CD workflows.
+Additional Hands-On Work and Tools
+Additional exposure: Python and MongoDB; exploratory work with Dioxus, Tauri, Dart and Flutter.
+Rust projects: Axum, Tokio, SeaORM and SQLx; file upload and storage services, image processing and modular application structure.
+Application patterns: Controller-service-repository organization, dependency injection, CQRS, role-based access control, multi-tenant application design and asynchronous workflows.
+Infrastructure tooling: Caddy, systemd, shell scripting, GitHub Actions, Taskfile and Makefile.
+Development environment: Neovim/LazyVim, tmux, Git, Bash, Zsh, pnpm and npm.
+Cloud and infrastructure exposure: AWS, Azure, DigitalOcean, Kubernetes and Hasura through project work and continued learning.
+Areas of Continued Learning
+AWS architecture and certification preparation; Kubernetes operations; distributed-system reliability; outbox and idempotency patterns; automated unit and integration testing; Rust application development; IoT, energy and edge systems.
+Professional Interests
+Backend and full-stack engineering; commerce and SaaS applications; maintainable service architecture; developer tooling; cloud infrastructure; and software applications in energy, IoT and edge computing.
+Professional Experience
+Executive Software Engineer — BYSL Global Technology Group
+April 2025–Present | Gulshan, Dhaka, Bangladesh | Full-time, on-site
+Work on backend services and web application features for commerce, point-of-sale and notification workflows.
+Develop APIs, validation, database models and migrations using TypeScript, Node.js/NestJS and PostgreSQL.
+Work with notification features including device registration, in-app and push delivery, audience segments and scheduled processing.
+Use Kafka events and Redis/BullMQ jobs for asynchronous processing and CSV/JSON imports.
+Investigate application and database errors, resolve integration issues and refactor existing code.
+Senior Software Engineer — Shopinbiz
+March 2024–April 2025 | Faridpur, Bangladesh | Full-time, remote
+Worked on full-stack applications using Go, NestJS, Angular and PostgreSQL for commerce-related workflows.
+Contributed to deployment configuration and CI/CD work for web applications.
+Developed a Telegram bot for e-commerce operations using Go, Fiber, GORM and PostgreSQL.
+Contributed to Doctor’s Pen, a healthcare patient management application.
+Senior Software Developer — ClassTune
+September 2023–March 2024 | Banani, Dhaka, Bangladesh | Full-time, on-site
+Developed and maintained learning management software using NestJS, Angular and Prisma.
+Worked on REST APIs, database integration and application workflows.
+Used NgRx for frontend state management and contributed to the School of Future project.
+Software Specialist — SSL Wireless
+May 2023–August 2023 | Dhaka, Bangladesh | Full-time
+Worked on enterprise software development, technical requirements and code review.
+Contributed to application structure and performance-related improvements.
+Angular Developer — ClassTune
+June 2021–May 2023 | Dhaka, Bangladesh | Full-time
+Developed learning management interfaces using Angular and Angular Material.
+Worked on application state management, reusable interface components and API integration.
+Contributed to School of Future and work management application features.
+Web Application Developer — Storrea.com
+May 2020–May 2021 | Dhaka, Bangladesh | Full-time
+Developed responsive e-commerce templates and storefront interfaces.
+Worked on the Sanguine, Serene, Toaseen and Prevalent templates.
+Contributed to web application maintenance and usability improvements.
+Frontend Developer — isolutionbd
+January 2019–February 2020 | Faridpur, Bangladesh | Full-time
+Developed responsive frontend interfaces for web applications.
+Worked on layout, styling and usability changes based on application requirements.
+Selected Projects
+Commerce and Notification Services
+Backend and web application work involving product and order workflows, point-of-sale interfaces, notifications, audience segmentation and background processing. Technologies include TypeScript, NestJS, PostgreSQL, Redis, Kafka and BullMQ.
+School of Future — ClassTune
+Contributed to learning management software across frontend and backend work, including Angular interfaces, state management, APIs and database-backed workflows. Technologies include Angular, NgRx, NestJS and Prisma.
+Telegram Bot — Shopinbiz
+Developed a bot for commerce-related automation using Go, Fiber, GORM and PostgreSQL.
+Enterprise Cloud Infrastructure
+Project work involving NestJS, GraphQL, Kubernetes and deployment configuration.
+Doctor’s Pen — Shopinbiz
+Contributed to a healthcare patient management application. Project period: October–November 2024.
+E-commerce Templates — Storrea.com
+Developed responsive storefront templates named Sanguine, Serene, Toaseen and Prevalent.
+Go Image Conversion Utility — Personal Project
+A Go and Fiber utility for processing uploaded images and returning WebP output.
+Repository
+PostgreSQL Migration CLI — Personal Project
+A Go command-line project for database migration and seeding workflows.
+Repository
+Figma to JSON CLI — Personal Project
+A small Go command-line tool for converting Figma design information into JSON for design handoffs.
+Rust File Service — Project Work
+File service work using Axum and SeaORM, covering uploads, image conversion, access control, storage quotas and range requests.
+Education
+Bachelor of Engineering in Electrical and Electronics Engineering
+University of Dhaka | 2013–2018
+CGPA: 3.44
+My electrical engineering background informs my interest in power systems, connected devices and the interaction between software and physical systems.
+Technical Writing
+I share practical notes and small projects covering Go, PostgreSQL migrations, image processing, JavaScript, state management and API development.
+Read my articles on Medium
